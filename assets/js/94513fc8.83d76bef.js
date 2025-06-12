@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglitch_runner=self.webpackChunkglitch_runner||[]).push([[9044],{4898:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/glitch-runner/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

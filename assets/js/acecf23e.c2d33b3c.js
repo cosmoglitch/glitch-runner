@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglitch_runner=self.webpackChunkglitch_runner||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/glitch-runner/blog","blogTitle":"Blog","authorsListPath":"/glitch-runner/blog/authors"}')}}]);
