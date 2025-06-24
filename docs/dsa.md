@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+sidebar_label: 'DSA'
+sidebar_position: 4
 ---
 
 # Data Structures and Algorithms in C++
