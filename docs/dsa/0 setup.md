@@ -1,12 +1,7 @@
 ---
-sidebar_label: 'DSA'
----
-
-# DSA in C++
----
+sidebar_label: '0. IDE Setup'
 id: dsa-vscode-setup
 title: VS Code Setup for DSA with C++
-sidebar_label: VSCode + GCC Setup
 slug: /dsa/vscode-setup
 description: Step-by-step guide to setting up VS Code to run C++ code with GCC on Windows.
 ---

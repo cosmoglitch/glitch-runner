@@ -1,7 +1,7 @@
 ---
 id: pointers
 title: Pointers in C++
-sidebar_label: Pointers
+sidebar_label: 1. Pointers
 description: Understand pointers with simple C++ examples and use-cases.
 slug: /dsa/pointers
 ---
