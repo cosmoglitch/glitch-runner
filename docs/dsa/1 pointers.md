@@ -6,6 +6,7 @@ description: Understand pointers with simple C++ examples and use-cases.
 slug: /dsa/pointers
 ---
 
+## Introduction
 > “A pointer is a variable that stores the address of another variable.”
 
 🧠 **Why Learn Pointers?**
