@@ -9,7 +9,7 @@ slug: /dsa/pointers
 > “A pointer is a variable that stores the address of another variable.”
 
 ---
-## 🧠 Why Learn Pointers?
+🧠 **Why Learn Pointers?**
 
 - Core to memory management
 - Essential for arrays, linked lists, trees
@@ -17,7 +17,7 @@ slug: /dsa/pointers
 
 ---
 
-## Operator : & (Address of), *(Value Of)
+📝**Operators : & (Address of),\*(Value Of)**
  - "&" Operator : Gives address of the variable
  - "*" Operator : Gives value of the variable
 
@@ -31,7 +31,7 @@ cout << "Address of x = " << p << endl;
 cout << "Address of x = " << &x << endl;
 ```
 
-## 💡Good Practice
+💡**Good Practice**
 Always assign pointer variables an address value or make it a null pointer. 
 
 Say : 
@@ -47,3 +47,6 @@ Thus as a correct practice either assign an address to it on declaration, or mak
 int *p = &x;
 int *q = 0;  // Null Pointer. (*p)++ will give Segmentation Fault here.
 ```
+
+## Pointer Arithmetic
+
