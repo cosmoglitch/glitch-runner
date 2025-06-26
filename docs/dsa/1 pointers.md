@@ -9,7 +9,6 @@ slug: /dsa/pointers
 > “A pointer is a variable that stores the address of another variable.”
 
 ---
-
 ## 🧠 Why Learn Pointers?
 
 - Core to memory management
