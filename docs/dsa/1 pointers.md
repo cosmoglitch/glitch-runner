@@ -49,4 +49,3 @@ int *q = 0;  // Null Pointer. (*p)++ will give Segmentation Fault here.
 ```
 
 ## Pointer Arithmetic
-
