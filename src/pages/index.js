@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Just another perspective into programming !">
+      description="Just another programming tutorial, hoping it helps someone !">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
