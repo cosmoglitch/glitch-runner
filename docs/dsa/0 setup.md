@@ -9,7 +9,6 @@ description: Step-by-step guide to setting up VS Code to run C++ code with GCC o
 > This guide will help you set up **VS Code + GCC** on Windows to begin your DSA journey in C++.
 
 ## Install VS Code
-
 Download and install the latest version of Visual Studio Code from the official website:
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
