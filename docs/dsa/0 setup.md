@@ -13,7 +13,7 @@ Download and install the latest version of Visual Studio Code from the official 
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-Once installed, open VS Code and let it set up the initial environment.
+Once installed, open VS Code and set up the initial environment.
 
 ## Install GCC (MinGW) Compiler
 
