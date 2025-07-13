@@ -16,7 +16,6 @@ Download and install the latest version of Visual Studio Code from the official 
 Once installed, open VS Code and set up the initial environment.
 
 ## Install GCC (MinGW) Compiler
-
 To run and compile C++ files locally, you need to install a compiler like GCC.
 
 1. Go to: [https://sourceforge.net/projects/mingw-w64/](https://sourceforge.net/projects/mingw-w64/)
