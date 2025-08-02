@@ -94,14 +94,13 @@ const config = {
             label: "DSA",
           },
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            href: "https://github.com/cosmoglitch/glitch-runner/leetcode-cpp",
             position: "left",
             label: "Leetcode-CPP",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/cosmoglitch/glitch-runner/blog",
+            href: "https://github.com/cosmoglitch/glitch-runner",
             label: "GitHub",
             position: "right",
           },
