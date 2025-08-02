@@ -80,22 +80,22 @@ const config = {
       // Replace with your project's social card
       image: "img/glitch_runner_animated_transparent.gif",
       navbar: {
-        title: "Glitch-Runner",
+        title: "Glitch Runner",
         logo: {
-          alt: "My Site Logo",
+          alt: "Glitch Runner Logo",
           //src: "img/logo.svg",
-          src: "img/glitch_runner_animated_transparent.gif",
+          src: "img/glitch_runner_animated_transparent.gif"
         },
         items: [
           {
             type: "docSidebar",
-            sidebarId: "dsa-cpp",
+            sidebarId: "tutorialSidebar",
             position: "left",
             label: "DSA",
           },
           {
             type: "docSidebar",
-            sidebarId: "leetcode-cpp",
+            sidebarId: "tutorialSidebar",
             position: "left",
             label: "Leetcode-CPP",
           },
