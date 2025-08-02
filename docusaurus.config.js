@@ -83,7 +83,8 @@ const config = {
         title: "Glitch-Runner",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          //src: "img/logo.svg",
+          src: "img/glitch_runner_animated_transparent.gif",
         },
         items: [
           {
