@@ -12,7 +12,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Glitch-Runner",
   tagline: "A speck of dust in void, a glitch in the code",
-  favicon: "img/favicon.ico",
+  //favicon: "img/favicon.ico",
+  favicon: "img/glitch_runner_animated_transparent.gif",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
