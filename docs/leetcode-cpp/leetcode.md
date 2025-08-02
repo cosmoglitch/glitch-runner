@@ -1,5 +1,5 @@
 ---
-sidebar_label: '0. IDE Setup'
+sidebar_label: 'Leetcode Problems'
 id: leetcode
 title: Leetcode problems in C++
 slug: /leetcode
@@ -7,7 +7,7 @@ description: Let's solve Leetcode problems
 ---
 
 ## 1. Two Sum
->Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order.
 Example 1:
@@ -16,7 +16,7 @@ Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 
-*Approach* : 
+***Approach*** : 
 We will loop through the array once. And add the visited umber and its index to a Map.
 * With every index in loop, we will fetch the number and find the difference from "target". 
 * If the difference has already been visited in the array, then we return the current index and the index of the visited number.
@@ -46,4 +46,5 @@ public:
 ```
 
 **Space Complexity** : O(n)
+
 **Time Complexity**  : O(n)
