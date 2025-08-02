@@ -23,7 +23,8 @@ We will loop through the array once. And add the visited umber and its index to 
 * Else we add the visited number and index to the Map and move along.
 * At the end if no 2 numbers satisfy the condition, we send {-1, -1}
 
-```
+```cpp title="twosum.cpp"
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
