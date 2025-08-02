@@ -11,7 +11,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Glitch-Runner",
-  tagline: "A speck of dust in void, a glitch in the code",
+  tagline: "",
   //favicon: "img/favicon.ico",
   favicon: "img/glitch_runner_animated_transparent.gif",
 
